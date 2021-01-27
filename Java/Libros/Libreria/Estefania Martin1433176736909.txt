@@ -1,2 +1,0 @@
-Factura de compra: Estefania Martin ha comprado el libro ``Niebla´´ con ISBN 655210637 en formato mobi por un precio de 9.0€.
-Pagado con la tarjeta de crédito 74893267891 que caduca en Marzo-2019
